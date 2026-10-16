@@ -1,0 +1,14 @@
+{
+  "wargood": {
+    "id": "86248635-76af-44c1-985e-4bdf50a14ac4",
+    "username": "wargood",
+    "password": "scrypt:32768:8:1$ET0EgjSpcu05is8o$ac5aa689ae3bab1e9f4ee8d8df92868b7d94aff60519a7d8660f3f6f09bfc9b7adb59d836930ef22724acf15ef26685a1790e79e12e718f6c56e3ae8e5b4ccdc",
+    "created_at": "2026-10-16T16:53:24.390725"
+  },
+  "wargd": {
+    "id": "bf464703-1c67-4df7-9284-44ab77d07e08",
+    "username": "wargd",
+    "password": "scrypt:32768:8:1$r55aWYEJKpw4hZGb$6e1ec62a98e6b629a360cf2a43641ade5ae5771fa89226fb52dafe9772c4f3e9e6ca42cc7f2b02d877029cc39ac249837807148f0aaea5434938a813fab43177",
+    "created_at": "2026-10-16T18:28:56.582601"
+  }
+}

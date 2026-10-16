@@ -1,0 +1,121 @@
+{
+  "e8e8c793": {
+    "id": "e8e8c793",
+    "user": "wargood",
+    "clan_id": "346494849",
+    "region": "ME",
+    "status": "stopped",
+    "stage": "done",
+    "bots": [
+      {
+        "uid": 8295489948,
+        "password": "BLRX-HELLOWX8FYJ",
+        "account_id": "18757070076",
+        "name": "hello__7366",
+        "status": "in_clan"
+      },
+      {
+        "uid": 8295489950,
+        "password": "BLRX-HELLOPMV4YK",
+        "account_id": "18757070093",
+        "name": "hello__9283",
+        "status": "in_clan"
+      },
+      {
+        "uid": 8295489953,
+        "password": "BLRX-HELLO5NZ537",
+        "account_id": "18757070120",
+        "name": "hello__6774",
+        "status": "in_clan"
+      },
+      {
+        "uid": 8295490640,
+        "password": "BLRX-HELLOHHR2XF",
+        "account_id": "18757071243",
+        "name": "hello__9402",
+        "status": "in_clan"
+      }
+    ],
+    "logs": [
+      {
+        "t": "2026-10-16T16:53:55.832680",
+        "m": "📸 snapshot: 0 حساب موجود مسبقاً"
+      },
+      {
+        "t": "2026-10-16T16:53:55.894988",
+        "m": "⚡ إنشاء 4 توكنات | Region=ME"
+      },
+      {
+        "t": "2026-10-16T16:53:56.973869",
+        "m": "[GEN] [⚡] Starting with 3 threads, target: 4 accounts"
+      },
+      {
+        "t": "2026-10-16T16:53:57.082771",
+        "m": "[GEN] [⚡] Region: ME | Prefix: hello__"
+      },
+      {
+        "t": "2026-10-16T16:53:57.125400",
+        "m": "[GEN] [⚡] Starting generation..."
+      },
+      {
+        "t": "2026-10-16T16:54:04.037885",
+        "m": "[GEN] BOT = 18757070076 | UiD = 8295489948 | PassWord = BLRX-HELLOWX8FYJ | NamE = hello__7366 | ReGioN = ME | bio: success | Progress: 1/4"
+      },
+      {
+        "t": "2026-10-16T16:54:04.196809",
+        "m": "[GEN] BOT = 18757070093 | UiD = 8295489950 | PassWord = BLRX-HELLOPMV4YK | NamE = hello__9283 | ReGioN = ME | bio: success | Progress: 2/4"
+      },
+      {
+        "t": "2026-10-16T16:54:04.378100",
+        "m": "[GEN] BOT = 18757070120 | UiD = 8295489953 | PassWord = BLRX-HELLO5NZ537 | NamE = hello__6774 | ReGioN = ME | bio: success | Progress: 3/4"
+      },
+      {
+        "t": "2026-10-16T16:54:08.861397",
+        "m": "[GEN] BOT = 18757071243 | UiD = 8295490640 | PassWord = BLRX-HELLOHHR2XF | NamE = hello__9402 | ReGioN = ME | bio: success | Progress: 4/4"
+      },
+      {
+        "t": "2026-10-16T16:54:09.035153",
+        "m": "[GEN] - Done! Created 4 accounts"
+      },
+      {
+        "t": "2026-10-16T16:54:09.098431",
+        "m": "[GEN] - Bio changed for 5 accounts"
+      },
+      {
+        "t": "2026-10-16T16:54:09.203273",
+        "m": "✅ تم إنشاء 4 توكنات (الحد الأقصى 4)"
+      },
+      {
+        "t": "2026-10-16T16:54:09.392968",
+        "m": "📨 إرسال 4 دعوات إلى الكلان 346494849 ..."
+      },
+      {
+        "t": "2026-10-16T16:54:11.738574",
+        "m": "📨 uid=8295489948 → ✅ OK"
+      },
+      {
+        "t": "2026-10-16T16:54:14.537048",
+        "m": "📨 uid=8295489950 → ✅ OK"
+      },
+      {
+        "t": "2026-10-16T16:54:16.762946",
+        "m": "📨 uid=8295489953 → ✅ OK"
+      },
+      {
+        "t": "2026-10-16T16:54:18.887686",
+        "m": "📨 uid=8295490640 → ✅ OK"
+      },
+      {
+        "t": "2026-10-16T16:54:18.914267",
+        "m": "✅ اكتملت العملية: 4/4 دعوات ناجحة"
+      },
+      {
+        "t": "2026-10-16T16:54:18.972480",
+        "m": "🏁 انتهى — لن يتم إنشاء أي حساب جديد لهذا الـ Job"
+      }
+    ],
+    "done": true,
+    "created_at": "2026-10-16T16:53:55.702185",
+    "updated_at": "2026-10-16T16:54:18.950136"
+  }
+}
